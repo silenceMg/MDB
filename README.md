@@ -1,5 +1,5 @@
 # MDB
 a simple data base (unfinished)
 
-#Architecture
-![index](https://github.com/silenceMg/MDB/raw/master/image/Architecture.png)
+#Architecture<br>
+![image](https://github.com/silenceMg/MDB/raw/master/image/Architecture.png)
