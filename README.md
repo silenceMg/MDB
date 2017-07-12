@@ -1,4 +1,4 @@
-# MDB
+# MDB(only for windows)
 a simple data base (unfinished)
 
 #Architecture<br>
